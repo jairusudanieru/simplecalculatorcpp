@@ -54,19 +54,20 @@ int main() {
           
           //computation
           if (a == "+") {
-            double sum = n1 + n2;
+            int sum = n1 + n2;
             cout << "The answer is: " << sum;
             op = "true";
           } else if (a == "-") {
-            double diff = n1 - n2;
+            int diff = n1 - n2;
             cout << "The answer is: " << diff;
             op = "true";
           } else if (a == "*" || a == "x") {
-            double prod = n1 * n2;
+            int prod = n1 * n2;
             cout << "The answer is: " << prod;
             op = "true";
           } else if (a == "/") {
-            double quot = n1 / n2;
+            float n3 = n1, n4 = n2;
+            float quot = n3 / n4;
             cout << "The answer is: " << quot;
             op = "true";
           } else {
