@@ -33,7 +33,7 @@ int main() {
       //loop if invalid 2nd number
       while(vn2 == "false") {
         cout << "Enter a 2nd valid number: ";
-        cin >> n1;
+        cin >> n2;
 
         //checks if the 2nd number is valid
         if (!cin) {
