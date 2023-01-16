@@ -12,4 +12,3 @@ Pag may error ikaw na bahala kaya mo yan\
 pag wala edi nice
 
 Di mo maintindihan? HAHA same\
-Pahingi po piso (gcash 09984444035)
